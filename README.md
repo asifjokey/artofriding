@@ -1,30 +1,20 @@
-# Art of Riding Global 🌍🐎
+Project Overview
+Art of Riding Global is a premium digital platform developed to integrate high-end equestrian eCommerce with a dedicated educational resource center. The project required a scalable architecture capable of handling global traffic, secure transactions, and media-heavy training content.
 
-This repository contains the WordPress and WooCommerce setup for **[artofridingglobal.com](https://artofridingglobal.com)** — Official WordPress + WooCommerce website for Art of Riding Global — an equestrian lifestyle brand offering premium horse-riding equipment, apparel, and training resources.
+Key Objectives:
+eCommerce Excellence: Developed a robust online store for premium equipment, saddles, and apparel.
 
+Educational Integration: Created a seamless user journey between product browsing and training resources.
 
----
+Global Optimization: Engineered the platform for high-speed performance across international regions.
 
-## 🌟 About the Project
-**Art of Riding Global** is dedicated to improving the relationship between horse and rider through balance, connection, and quality gear.  
-The website serves as both an **eCommerce store** and an **educational platform**, featuring:
-- Premium **equestrian products** (saddles, bridles, accessories, and apparel)  
-- Online resources and training content for modern riders  
-- Secure checkout and order management powered by **WooCommerce**
+Technical Stack
+Core Platform: WordPress (Enterprise-grade configuration)
 
----
+Commerce Engine: WooCommerce
 
-## 🧰 Tech Stack
-- **CMS:** WordPress  
-- **eCommerce:** WooCommerce  
-- **Theme:** Custom/Child theme (e.g., Astra, GeneratePress, or Flatsome)  
-- **Page Builder:** Elementor / Gutenberg  
-- **Hosting:** cPanel / LiteSpeed / Cloudflare CDN  
-- **Version Control:** Git & GitHub  
+Design Framework: Custom Child Theme development with Elementor Pro
 
----
+Infrastructure: LiteSpeed Enterprise, cPanel Management, and Cloudflare CDN
 
-## ⚙️ Local Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/artofridingglobal.git
+Version Control: Git / GitHub Desktop
